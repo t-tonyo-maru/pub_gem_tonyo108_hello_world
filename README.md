@@ -7,6 +7,7 @@
 ## リンク
 
 - https://rubygems.org/
+- https://zenn.dev/d0ne1s/articles/ded05b96bfbe0d
 
 <!-- TODO: Delete this and the text below, and describe your gem
 
